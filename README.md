@@ -13,22 +13,19 @@ Additionally, we examine the **ethical considerations** in medical imaging AI, i
   <br><br>
 
   <!-- Screenshot 1 -->
-  <img src="applications/Screenshot 2025-10-25 170910.png" width="700" />
+  <img src="applications/Screenshot 2025-10-25 192426.png" width="700" />
 
   <br><br>
 
   <!-- Screenshot 2 -->
-  <img src="applications/Screenshot 2025-10-25 164307.png" width="700" />
+  <img src="applications/Screenshot 2025-10-25 192500.png" width="700" />
 
   <br><br>
 
   <!-- Screenshot 3 -->
-  <img src="applications/Screenshot 2025-10-25 171820.png" width="700" />
+  <img src="applications/Screenshot 2025-10-25 192507.png" width="700" />
 
   <br><br>
-
-  <!-- Screenshot 4 -->
-  <img src="applications/Screenshot 2025-10-25 164518.png" width="700" />
 
 </div>
 ## 📚 Table of Contents
