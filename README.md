@@ -58,6 +58,7 @@ In this project, we:
 * Generate synthetic datasets (e.g., X-rays, MRIs)
 * Build a **data loader** for training with synthetic data
 * Fine-tune a pre-trained **classification model** using GAN-generated images
+* [**Click to see all Pretrained GAN models inforrmations**](global.json)
 
 ### Phase 3: Build the Streamlit Web App
 
