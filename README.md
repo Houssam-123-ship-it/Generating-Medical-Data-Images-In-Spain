@@ -8,7 +8,7 @@ Additionally, we examine the **ethical considerations** in medical imaging AI, i
 <div align="center">
 
   <!-- GIF Demo -->
-  <img src="applications/045FlaskAPI_WQU-AppliedAILabs-CV-GoogleChrome2025-10-2517-09-38-ezgif.com-video-to-gif-converter.gif" width="700" />
+  <img src="applications/054 Streamlit App _ WQU - Applied AI Labs - CV - Google Chrome 2025-10-25 19-18-06.gif" width="700" />
 
   <br><br>
 
