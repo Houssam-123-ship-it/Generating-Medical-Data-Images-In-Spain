@@ -5,7 +5,32 @@ The project involves **building and training a GAN**, **using pre-trained models
 Additionally, we examine the **ethical considerations** in medical imaging AI, including bias, privacy, and fairness.
 
 ---
+<div align="center">
 
+  <!-- GIF Demo -->
+  <img src="applications/045FlaskAPI_WQU-AppliedAILabs-CV-GoogleChrome2025-10-2517-09-38-ezgif.com-video-to-gif-converter.gif" width="700" />
+
+  <br><br>
+
+  <!-- Screenshot 1 -->
+  <img src="applications/Screenshot 2025-10-25 170910.png" width="700" />
+
+  <br><br>
+
+  <!-- Screenshot 2 -->
+  <img src="applications/Screenshot 2025-10-25 164307.png" width="700" />
+
+  <br><br>
+
+  <!-- Screenshot 3 -->
+  <img src="applications/Screenshot 2025-10-25 171820.png" width="700" />
+
+  <br><br>
+
+  <!-- Screenshot 4 -->
+  <img src="applications/Screenshot 2025-10-25 164518.png" width="700" />
+
+</div>
 ## 📚 Table of Contents
 
 * [Overview](#overview)
